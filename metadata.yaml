@@ -1,11 +1,16 @@
 _repo: Sairaanhoitajan-maailmasta_65268
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mannerheim, Sophie
     gutenberg_agent_id: '53262'
     url: http://www.gutenberg.org/2009/agents/53262
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65268#Sairaanhoitajan-maailmasta
 gutenberg_issued: '2021-05-06'
 gutenberg_type: Text
 identifiers:
